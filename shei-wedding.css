@@ -1,0 +1,271 @@
+/*Fonts and decorations*/
+.text-title {
+    font-family: 'Montez', cursive;
+}
+
+.text-subtitle {
+    font-family: 'Raleway', sans-serif;
+    font-size: 14px;
+    line-height: 1.8;
+}
+
+.red-underline {
+    color: #f66767;
+    text-decoration: underline;
+    margin: 0px;
+}
+/*--*/
+
+
+/*------------------------*/
+/*------- UTILITIES ------*/
+/*------------------------*/
+
+.u-no-border-radius {
+    border-radius: 0;
+}
+
+.headers-padding {
+    margin-top: 130px;
+    margin-bottom: 40px;
+}
+
+.headers-titles {
+    text-align: center;
+    font-size: 60px;
+}
+/*--*/
+
+.header {
+    padding: 20px 74px;
+    background-color: white;
+}
+
+.wedding-logo {
+    margin-right: 190px;
+}
+
+.navigation-header {
+    color: black;
+    font-size: 1.1rem;
+    font-family: 'Nunito', sans-serif;  
+    padding: 21px 17px;
+}
+
+.navigation-header:hover {
+    background-color: #76dbd1;
+    color: white;
+    padding: 19px 15px;
+}
+
+.fotos-carousel {
+    margin-top: 111px;
+}
+
+.text-images {
+    top: 150px;
+}
+
+.images-text-names {
+    font-weight: bold;
+    font-size: 67px;
+}
+
+.images-text-description {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 45px;
+}
+
+.text-date {
+    color: #f66767;
+    font-family: 'Pacifico', cursive;
+    font-size: 35px;
+}
+
+.btn-contact {
+    background-color: #76dbd1;
+    border-radius: 0px;
+    color: white;
+    padding: 14px 19px;
+    font-size: 19px;
+}
+
+.names-about-people {
+    text-align: center;
+    margin-top: 60px;
+    font-size: 60px;
+}
+
+.title-subtitle-about {
+    margin-top: 142px;
+}
+
+.our-story-subtitle {
+    text-align: center;
+}
+
+.date-red {
+    background-color: #f66767;
+    color: white;
+    text-align: center;
+    width: 236px;
+    padding: 40px;
+    margin-left: 269px;
+    margin-bottom: 110px;
+}
+
+.Boxes-explications {
+    background-color: #eaeaea;
+    color: black;
+    width: 426px;
+    padding: 35px;
+    margin-bottom: 44px;
+}
+
+.right-grey-boxes {
+    margin-left: 36px;
+    width: 514px;
+}
+
+.titles-boxes {
+    padding-bottom: 10px;
+}
+
+.date-red.date-green {
+    background-color: #5eb7b7;
+    margin: 0px;
+}
+
+.boxes-grey {
+    width: 505px;
+    margin-right: 23px;
+    text-align: right;
+}
+
+.dot {
+    height: 21px;
+    width: 21px;
+    background-color: #eaeaea;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.border-grey {
+    border-right: 2px solid #eaeaea;
+}
+
+.card-img {
+    width: 100%;
+}
+
+.card-body {
+    background-color: #eaeaea;
+    padding-left: 2rem;
+}
+
+.card-title {
+    font-size: 29px;
+}
+
+.card-subtitle {
+    font-size: 16px;
+}
+
+.card-complete {
+    display: inline-block;
+    border: 10px solid white;
+    margin-right: 15px;
+    margin-bottom: 25px;
+}
+
+.all-family-cards {
+    margin: 61px 73px;
+}
+
+.gallery-image-size {
+    width: 100%;
+}
+.image-hover {
+    background-color:rgba(164, 219, 202, 0);
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+.red-square {
+    background-color: rgba(246,103,103);
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    left: 45%;
+    top: 45%;
+    z-index: -1;
+}
+
+.heart-icon {
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.image-hover:hover {
+    background-color: rgba(46, 138, 138, 0.4); 
+    z-index: 1;
+}
+
+.event-card {
+    padding:10px;
+    margin: 12px;
+}
+
+.card-body-event {
+    background-color: white;
+    padding: 0px;
+}
+
+.card-title {
+    padding-top: 15px;
+    font-size: 22px;
+}
+
+.location-btn {
+    background-color: #f66767;
+    color: white;
+}
+
+.form-control:valid {
+    background-color: #ecf4f3;
+    border: none;
+}
+
+.send-message-btn {
+    margin-bottom: 152px;
+}
+
+.btn-message {
+    background-color: #76dbd1 !important;
+    opacity: .7;
+    color:white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 15px;
+    font-weight: 900;
+    border: none;
+    position: absolute;
+    left: 45%;
+}
+
+.footer-text {
+    color: white;
+    height: 66px;
+    background-color: #000000d4;
+    text-align: center;
+    padding-top: 23px;
+}
+
+.red-text-footer {
+    color: red;
+}
+
