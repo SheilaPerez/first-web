@@ -242,7 +242,7 @@
 }
 
 .send-message-btn {
-    margin-bottom: 152px;
+    text-align: center;
 }
 
 .btn-message {
@@ -253,8 +253,7 @@
     font-size: 15px;
     font-weight: 900;
     border: none;
-    position: absolute;
-    left: 45%;
+    margin-bottom: 150px;
 }
 
 .footer-text {
